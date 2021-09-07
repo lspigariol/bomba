@@ -70,7 +70,7 @@ object wollok {
 }
 
 object cachito{
-	var position = game.at(1,5)
+	var position = game.at(2,5)
 	var vida = 100
 	method position() = position
 	
